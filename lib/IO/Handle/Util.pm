@@ -3,9 +3,7 @@ package IO::Handle::Util;
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
-$VERSION = eval $VERSION;
-
+our $VERSION = '0.02';
 
 use warnings::register;
 
